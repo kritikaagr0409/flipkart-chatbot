@@ -1,0 +1,12 @@
+
+langchain-astradb
+langchain
+langchain-community 
+langchain-groq
+datasets
+pypdf
+python-dotenv
+pandas
+flask
+-e . #it means executable file that will install the local package flipkart-bot in the venv
+# it executes setup.py

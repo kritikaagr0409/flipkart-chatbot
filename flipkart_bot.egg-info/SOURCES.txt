@@ -1,0 +1,9 @@
+setup.py
+flipkart-bot/__init__.py
+flipkart-bot/data_converter.py
+flipkart-bot/data_ingestion.py
+flipkart-bot/retrieval_generation.py
+flipkart_bot.egg-info/PKG-INFO
+flipkart_bot.egg-info/SOURCES.txt
+flipkart_bot.egg-info/dependency_links.txt
+flipkart_bot.egg-info/top_level.txt
